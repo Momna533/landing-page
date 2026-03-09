@@ -20,8 +20,8 @@ A modern, responsive one-page landing site for a fake tech startup. Built with H
 
 ## Deployment
 
-- Live Demo: [\[Demo Link Here\]](https://responsive-landing-theta.vercel.app/)
-- GitHub Repo: [\[Repo Link Here\]](https://github.com/Momna533/responsive-landing)
+- Live Demo: [\[Demo Link Here\]](https://landing-page-two-pink-76.vercel.app/)
+- GitHub Repo: [\[Repo Link Here\]](https://github.com/Momna533/landing-page)
 
 ## Screenshots
 
