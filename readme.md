@@ -1,33 +1,84 @@
-# Responsive Landing Page - TechStart
+# ☕ Coffee Shop Landing Page
 
-## Overview
+A minimalist, responsive landing page built with **HTML, CSS, and JavaScript**.  
+This project showcases the cafe’s atmosphere, menu, testimonials, and includes a working contact form.
 
-A modern, responsive one-page landing site for a fake tech startup. Built with HTML, CSS, and JavaScript to demonstrate clean design and interactivity.
+---
 
-## Features
+## 🚀 Live Demo
 
-- Hero section with logo, headline, and CTA button
-- About, Services, Testimonials, and Contact sections
-- Dark mode toggle (JavaScript)
-- Responsive layout using Flexbox and Grid
-- Google Fonts (Roboto) for professional typography
+👉 [View Website](https://landing-page-two-pink-76.vercel.app/)
 
-## Tech Stack
+---
 
-- HTML5
-- CSS3 (Flexbox, Grid)
-- JavaScript (DOM manipulation)
+## 📸 Screenshots
 
-## Deployment
+### Home / Hero Section
 
-- Live Demo: [\[Demo Link Here\]](https://landing-page-two-pink-76.vercel.app/)
-- GitHub Repo: [\[Repo Link Here\]](https://github.com/Momna533/landing-page)
+![Home Screenshot](assets/home.png)
 
-## Screenshots
+### Menu Section
 
-![Desktop Screenshot](screenshot-desktop.png)
-![Mobile Screenshot](screenshot-mobile.png)
+![Menu Screenshot](assets/menu.png)
 
-## Author
+---
 
-Momna Ijaz – Frontend Developer
+## 📌 Features
+
+- Responsive design (mobile‑first)
+- Hero, Booking, About, Menu, Testimonials, Gallery, Contact sections
+- Interactive contact form with validation
+- Smooth scrolling navigation
+- SEO meta tags + favicon
+- Hosted on Netlify/GitHub Pages
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** → semantic structure
+- **CSS3** → Flexbox/Grid, responsive design, media queries
+- **JavaScript (ES6)** → form validation, smooth scroll, testimonial slider
+
+---
+
+## 📂 Project Structure
+
+```
+coffee-shop-landing/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+    ├── hero.jpg
+    ├── about.jpg
+    ├── pastries.jpg
+    ├── tea.jpg
+    ├── coffee.jpg
+    ├── gallery1.jpg
+    ├── gallery2.jpg
+    ├── gallery3.jpg
+    └── favicon.png
+```
+
+---
+
+## 📖 How to Run Locally
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/Momna533/landing-page
+   ```
+2. Open `index.html` in your browser.
+3. Customize content in `index.html`, styles in `style.css`, and scripts in `script.js`.
+
+---
+
+## 📧 Contact
+
+Created by **Momna Ijaz**  
+Frontend Developer & Freelancer
+
+📩 Email: momnadev533gb@gmail.com
+
+---
